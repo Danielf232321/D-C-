@@ -1,0 +1,22 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+  <title>D&C Construction</title>
+</head>
+<body>
+<h1>D&C Construction</h1>
+<img src="cool.jpg">
+  <p>Things we can get done:</p>
+<ul>
+	<li>Drywall</li>
+	<li>Metal frame</li>
+	<li>Wood frame</li>
+        <li>Work on exterior and interior</li>
+        <li>Drywall</li>
+        <li>Mud texture layout</li>
+        <li>deck</li>
+        <li>install doors</li>
+</ul>
+  <p id="sentence2">General contracting</p>
+</body>
+</html>
