@@ -6,3 +6,8 @@ font-size: 48px;
   color: dark blue;
   font-size: 48px;
 }
+#frame{
+	height:50%;
+	width: auto;
+	margin: auto;
+}
