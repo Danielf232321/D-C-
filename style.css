@@ -8,6 +8,7 @@ font-size: 48px;
 }
 #frame{
 	height:50%;
+<<<<<<< HEAD
 	width: auto;
 	margin: auto;
 
@@ -17,3 +18,8 @@ font-size: 48px;
         Height:50%
         Width: auto;
         margin: auto;
+=======
+	width: 50%;
+	margin: 50%;
+}
+>>>>>>> origin/master
